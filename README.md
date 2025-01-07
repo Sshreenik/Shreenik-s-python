@@ -1,1 +1,1 @@
-# Shreenik-s-python
+These are all my python projects which I did while learning. Whenever I learn a topic I have a habit of practicing it in some online platform andso based on the topics I have written some code. Kindly have a look and feel free to give suggestions. 
